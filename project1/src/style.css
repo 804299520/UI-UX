@@ -114,3 +114,8 @@ a:hover{
 .smallmap{
     height: 200px;
 }
+
+.alignment{
+    margin: 0px;
+    height: 8px;
+}

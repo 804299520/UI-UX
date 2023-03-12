@@ -119,3 +119,8 @@ a:hover{
     text-indent: 0px;
     text-align: center;
 }
+
+.alignment{
+    margin: 0px;
+    height: 8px;
+}
