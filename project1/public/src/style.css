@@ -114,3 +114,8 @@ a:hover{
 .smallmap{
     height: 200px;
 }
+
+.image{
+    text-indent: 0px;
+    text-align: center;
+}
